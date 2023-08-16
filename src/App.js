@@ -1,5 +1,4 @@
 import React from 'react'
-import { styled } from 'styled-components'
 import {Landing,Error,Register,ProtectedRoute} from './pages'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'

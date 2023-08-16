@@ -40,7 +40,7 @@ const AddJob = () => {
       name:'jobLocation',
       value:user.location,
     }))}
-  
+     // eslint-disable-next-line
   }, []);
 
   return (
